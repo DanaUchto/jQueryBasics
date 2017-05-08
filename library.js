@@ -7,5 +7,11 @@ $(document).ready(function() {
 	}, 6000);
 
 
+	$("h1").css("font-family", "Arial");
+	$("p").css("color", "darkgreen");
+
+
+
+
 });
 
