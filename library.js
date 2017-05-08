@@ -1,6 +1,11 @@
 $(document).ready(function() {
 	
-	alert("Welcome to My Site")
+	$(".rectangle").animate ({
+		width: "800px", 
+		height: "800px",
+		opacity: 0.8
+	}, 6000);
 
 
 });
+
